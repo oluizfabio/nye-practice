@@ -1,0 +1,9 @@
+.cart-icon {
+  display: flex;
+  justify-content: center;
+}
+
+.cart-list {
+  max-height: calc(100vh - 243px);
+  overflow-y: auto;
+}
